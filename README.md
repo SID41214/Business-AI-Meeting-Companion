@@ -5,7 +5,7 @@ This repository hosts a personal project that is **currently in the active devel
 * **Status:** In Progress / Work in Progress
 * **Code Access:** The full source and related assets are currently maintained in a private environment.
 
-* *For inquiries or further information, please contact me directly at .*
+* *For inquiries or further information, please contact me directly at sidhub41214@gmail.com.*
 ---
 <img width="1913" height="887" alt="1" src="https://github.com/user-attachments/assets/7b520b5f-c005-4afd-8fd9-7f55c8bff475" />
 <img width="1918" height="887" alt="2" src="https://github.com/user-attachments/assets/3076d868-bb86-4ee1-b2cc-b2697050ee37" />
