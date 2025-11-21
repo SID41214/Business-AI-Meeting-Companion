@@ -1,4 +1,12 @@
-ON PROGRESS
+🚧 Project Status
+
+This repository hosts a personal project that is **currently in the active development phase**.
+
+* **Status:** In Progress / Work in Progress
+* **Code Access:** The full source and related assets are currently maintained in a private environment.
+
+* *For inquiries or further information, please contact me directly at .*
+---
 <img width="1913" height="887" alt="1" src="https://github.com/user-attachments/assets/7b520b5f-c005-4afd-8fd9-7f55c8bff475" />
 <img width="1918" height="887" alt="2" src="https://github.com/user-attachments/assets/3076d868-bb86-4ee1-b2cc-b2697050ee37" />
 <!-- <img width="1897" height="607" alt="3" src="https://github.com/user-attachments/assets/825441b5-23cb-4320-b68c-53f65483a5d7" /> -->
