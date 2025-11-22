@@ -3,7 +3,7 @@
 This repository hosts a personal project that is **currently in the active development phase**.
 
 * **Status:** In Progress / Work in Progress
-* **Code Access:** The full source and related assets are currently maintained in a private environment.
+
 
 * *For inquiries or further information, please contact me directly at sidhub41214@gmail.com.*
 ---
